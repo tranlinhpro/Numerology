@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <sharpUpdate> 
     <update appId="Numerology"> 
-        <version>3.5.4.2</version> 
+        <version>3.6.0.1</version> 
         <url>http://103.199.17.182/Numerology/Numerology.exe</url> 
         <filePath>./Numerology.exe</filePath>
-        <md5>E6ED531E46637D5BF7592A736B9180E9</md5>
+        <md5>7DFE9807E3BC9459EFB8A33275C96F26</md5>
         <description>Cập nhật ngày 01/10/2020:;1. Sửa một số lỗi.;2. Cập nhật lại giao diện.</description> 
         <launchArgs></launchArgs> 
     </update>
