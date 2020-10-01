@@ -5,7 +5,7 @@
         <url>http://103.199.17.182/Numerology/Numerology.exe</url> 
         <filePath>./Numerology.exe</filePath>
         <md5>D1B402C70CC6681C4EDB2934787A977D</md5>
-        <description>Cập nhật ngày 01/10/2020:;1. Sửa một số lỗi.;2. Cập nhật lại giao diện.</description> 
+        <description>Cập nhật ngày 01/10/2020:;1. Sửa một số lỗi.;2. Cập nhật giao diện.</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
