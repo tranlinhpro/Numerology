@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <sharpUpdate> 
     <update appId="Numerology"> 
-        <version>4.0.0.3</version> 
+        <version>4.0.0.4</version> 
         <url>http://103.199.17.182/Numerology/Numerology.exe</url> 
         <filePath>./Numerology.exe</filePath>
-        <md5>29F8034044A101D8D66CAEEFC052DC35</md5>
-        <description>Cập nhật ngày 01/11/2020:;1. Sửa một số lỗi.;2. Cập nhật giao diện file PDF.;3. Thêm luận giải cho các chỉ số</description> 
+        <md5>EEF49816785925281B4768C7030DE1A9</md5>
+        <description>Cập nhật ngày 08/11/2020:;1. Bản update này sửa lỗi 2 chỉ số Trưởng thành và Tương lai bị đảo cho nhau do lỗi dịch thuật</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
