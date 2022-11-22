@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <sharpUpdate> 
     <update appId="Numerology"> 
-        <version>4.0.2.1</version> 
+        <version>4.1.1.1</version> 
         <url>https://giaimavanmenh.net/app/Numerology.exe</url> 
         <filePath>./Numerology.exe</filePath>
         <md5>5f2ce59b6b23ab918b51854ee59203b1</md5>
