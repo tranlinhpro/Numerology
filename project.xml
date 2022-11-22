@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appId="Numerology"> 
         <version>4.1.1.1</version> 
-        <url>http://giaimavanmenh.net/app/Numerology.exe</url> 
+        <url>http://giaimavanmenh.net/app</url> 
         <filePath>./Numerology.exe</filePath>
         <md5>5f2ce59b6b23ab918b51854ee59203b1</md5>
         <description>Cập nhật ngày 22/11/2022:;1. Sửa một số lỗi nhỏ.;2. Cải thiện hiệu suất chương trình</description> 
